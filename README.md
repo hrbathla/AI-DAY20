@@ -1,5 +1,4 @@
 # AI-DAY20
-https://github.com/hrbathla/AI-DAY19.git
 ==================================================================================================================================
 What You'll Learn
 Claude can generate complete browser applications including UI design, game mechanics, camera integration, image processing, local storage, and interactive experiences. This demonstrates how AI can accelerate software development from idea to working product.
